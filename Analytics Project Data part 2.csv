@@ -3,7 +3,6 @@ East South Central,Alabama,3862,2242,2174,67,3,231,56200,Manufacturing
 Pacific,Alaska,545,348,326,21,6.1,55,78394,Mining
 West,Arizona,5713,3551,3385,167,4.7,366,70674,Real Estate
 West South Central,Arkansas,2343,1363,1314,48,3.5,133,54539,Manufacturing
-Pacific,California,31107,19412,18627,784,4,3137,78105,Real Estate
 West,Colorado,4545,3149,3062,87,2.8,390,72499,Real Estate
 North-East,Connecticut,2884,1914,1842,71,3.7,386,87291,Real Estate
 South,Delaware,778,487,469,18,3.8,75,74194,Finance
@@ -31,7 +30,6 @@ West,Nevada,2424,1542,1482,60,3.9,178,70906,Entertainment
 North-East,New Hampshire,1121,774,754,20,2.5,89,86900,Real Estate
 Middle Atlantic,New Jersey,7071,4493,4333,16,3.6,645,87726,Professional Services
 West,New Mexico,1640,955,908,46,4.9,104,53113,Real Estate
-Middle Atlantic,New York,15656,9514,9138,377,4,1732,71855,Finance
 South,North Carolina,8243,5080,4884,197,3.9,588,61159,Manufacturing
 West North Central,North Dakota,582,404,394,10,2.4,557,70031,Mining
 Midwest,Ohio,9239,5802,5564,239,4.1,699,64663,Manufacturing
@@ -42,7 +40,6 @@ North-East,Rhode Island,864,556,536,20,3.6,64,70151,Real Estate
 South,South Carolina,4063,2376,2308,68,2.8,246,62028,Manufacturing
 West North Central,South Dakota,672,464,449,15,3.3,53,64255,Finance
 East South Central,Tennessee,5379,3345,3232,113,3.4,380,56627,Manufacturing
-West South Central,Texas,21934,14045,13552,494,3.5,1887,67444,Manufacturing
 West,Utah,2351,1608,1566,42,2.6,189,84523,Real Estate
 North-East,Vermont,518,342,334,8,2.4,35,74305,Real Estate
 South,Virginia,6672,4412,4289,123,2.8,554,81313,Professional Services
