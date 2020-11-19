@@ -1,0 +1,52 @@
+Region ,State,Population ,Civilian_Labor_Force,Employed,Unemployed,Unemployment_Rate,GDP (billions),Median_Household_Income,Major_Industry
+East South Central,Alabama,3862,2242,2174,67,3,231,56200,Manufacturing
+Pacific,Alaska,545,348,326,21,6.1,55,78394,Mining
+West,Arizona,5713,3551,3385,167,4.7,366,70674,Real Estate
+West South Central,Arkansas,2343,1363,1314,48,3.5,133,54539,Manufacturing
+Pacific,California,31107,19412,18627,784,4,3137,78105,Real Estate
+West,Colorado,4545,3149,3062,87,2.8,390,72499,Real Estate
+North-East,Connecticut,2884,1914,1842,71,3.7,386,87291,Real Estate
+South,Delaware,778,487,469,18,3.8,75,74194,Finance
+South,District of Columbia,577,410,387,22,5.5,146,93111,Professional Services
+South,Florida,17410,10337,10016,321,3.1,1093,58368,Real Estate
+South,Georgia,8196,5110,4935,175,3.4,616,56628,Real Estate
+Pacific,Hawaii,1091,665,647,18,2.7,97,88006,Real Estate
+West,Idaho,1368,882,856,26,2.9,81,65988,Real Estate
+Midwest,Illinois,10001,6447,6191,256,4,897,74399,Professional Services
+Midwest,Indiana,5246,3387,3275,112,3.3,377,66693,Manufacturing
+West North Central,Iowa,2468,1739,1691,48,2.7,195,66054,Manufacturing
+West North Central,Kansas,2229,1487,1440,49,3.2,173,73151,Manufacturing
+East South Central,Kentucky,3494,2073,1984,89,4.3,215,55662,Manufacturing
+West South Central,Louisiana,3577,2095,1994,101,4.8,264,51707,Manufacturing
+North-East,Maine,1110,693,672,21,3,68,66546,Real Estate
+South,Maryland,4761,3261,3144,117,3.6,428,95572,Real Estate
+North-East,Massachusetts,5635,3817,3707,111,2.9,596,87707,Professional Services
+Midwest,Michigan,7993,4937,4736,203,4.1,542,64119,Manufacturing
+West North Central,Minnestoa,4424,3110,3009,100,3.2,381,81426,Manufacturing
+East South Central,Mississippi,2287,1276,1207,69,5.4,118,44787,Manufacturing
+West North Central,Missouri,4811,3083,2982,102,3.3,332,60597,Professional Services
+West,Montana,850,533,515,19,3.5,52,60195,Real Estate
+West North Central,Nebraska,1481,1035,1004,32,3,127,73071,Manufacturing
+West,Nevada,2424,1542,1482,60,3.9,178,70906,Entertainment
+North-East,New Hampshire,1121,774,754,20,2.5,89,86900,Real Estate
+Middle Atlantic,New Jersey,7071,4493,4333,16,3.6,645,87726,Professional Services
+West,New Mexico,1640,955,908,46,4.9,104,53113,Real Estate
+Middle Atlantic,New York,15656,9514,9138,377,4,1732,71855,Finance
+South,North Carolina,8243,5080,4884,197,3.9,588,61159,Manufacturing
+West North Central,North Dakota,582,404,394,10,2.4,557,70031,Mining
+Midwest,Ohio,9239,5802,5564,239,4.1,699,64663,Manufacturing
+West South Central,Oklahoma,3029,1841,1781,61,3.3,206,59397,Mining
+Pacific,Oregon,3409,2104,2025,79,3.7,252,74413,Real Estate
+Middle Atlantic,Pennsylania ,10277,6492,6208,284,4.4,814,70582,Professional Services
+North-East,Rhode Island,864,556,536,20,3.6,64,70151,Real Estate
+South,South Carolina,4063,2376,2308,68,2.8,246,62028,Manufacturing
+West North Central,South Dakota,672,464,449,15,3.3,53,64255,Finance
+East South Central,Tennessee,5379,3345,3232,113,3.4,380,56627,Manufacturing
+West South Central,Texas,21934,14045,13552,494,3.5,1887,67444,Manufacturing
+West,Utah,2351,1608,1566,42,2.6,189,84523,Real Estate
+North-East,Vermont,518,342,334,8,2.4,35,74305,Real Estate
+South,Virginia,6672,4412,4289,123,2.8,554,81313,Professional Services
+Pacific,Washington,6020,3914,3748,166,4.3,600,82454,Real Estate
+South,West Virgina,1447,797,758,39,4.9,78,53706,Education
+Midwest,Wisconsin,4633,3105,3001,104,3.3,347,67355,Manufacturing
+West,Wyoming,450,292,282,11,3.6,40,65134,Mining
